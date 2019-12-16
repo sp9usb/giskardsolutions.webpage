@@ -1,0 +1,56 @@
+{
+  "name": "angular-format",
+  "homepage": "https://github.com/kamil4521/angular-format",
+  "description": "Angular string format library",
+  "main": "app/src/angular-format.js",
+  "keywords": [
+    "angular",
+    "format",
+    "string"
+  ],
+  "authors": [
+    "Giskard Solutions"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/images",
+    "app/scripts",
+    "app/styles",
+    "app/views",
+    "app/.*",
+    "app/*.html",
+    "app/*.ico",
+    "app/*.txt",
+    "Gruntfile.js",
+    "karma.conf.js",
+    "karma-e2e.conf.js",
+    "package.json",
+    "*.cmd",
+    "*.sh",
+    ".*"
+  ],
+  "dependencies": {
+    "angular": "1.2.6",
+    "json3": "~3.2.6",
+    "es5-shim": "~2.1.0"
+  },
+  "devDependencies": {
+    "qunit": "~1.13.0",
+    "angular-mocks": "1.2.6",
+    "angular-scenario": "1.2.6"
+  },
+  "_release": "1cb0042b61",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1cb0042b615cc163de7f6d6dbaad1f9fa863a958"
+  },
+  "_source": "git://github.com/kamil4521/angular-format.git",
+  "_target": "*",
+  "_originalSource": "angular-format"
+}
